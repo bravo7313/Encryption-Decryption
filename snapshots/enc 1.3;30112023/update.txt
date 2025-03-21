@@ -1,0 +1,3 @@
+souce code is optimized for understanding
+directory moduls is now in different director into system and install  is upodated taking data from bin files
+a installer maker is make for deleper to insert ant changes in origrall source code into bin files of install

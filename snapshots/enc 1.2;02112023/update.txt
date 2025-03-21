@@ -1,0 +1,4 @@
+software now have different moduls for data entry which uses tkinker
+It also have a installer
+Encyption Sequence is now random with seeds genreator randomly each time a program runs
+entry coming from assci codes
